@@ -1,5 +1,5 @@
 <x-layout>
-    <x-slot name="page_name">Dashboard</x-slot>
+    <x-slot name="page_name">Tasks</x-slot>
     <div class="row">
         <div class="col-md-6">
             <livewire:task-component />
